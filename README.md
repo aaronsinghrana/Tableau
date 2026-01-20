@@ -31,6 +31,8 @@ This dashboard explores global health trends using the Gapminder Health dataset.
 
 This dashboard highlights how life expectancy varies globally, with Europe showing the highest averages and Africa the lowest. Interactive filters allow users to focus on specific countries and trends over time.
 
+[Link to my dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17652804517820/GlobalHealth?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## 🎵 Spotify Features Dashboard  
@@ -47,6 +49,8 @@ The Spotify dashboard explores music trends and audio features across genres, he
 - **Tempo by Genre** compared using bar charts  
 
 Insights revealed that Pop, Rap and Rock are the most popular genres, Reggaeton is the most danceable and Comedy has the lowest average tempo.
+
+[Link to my dashboard](https://public.tableau.com/views/SpotifyFeaturesDashboard/SpotifyFeaturesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
